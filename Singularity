@@ -5,9 +5,9 @@ From: ubuntu:bionic
 Author "Randall Cab White - rcwhite@stanford.edu"
 
 
-#########
+#############
 #%setup
-#########
+############
 
 #Downlaod packages
 %post
